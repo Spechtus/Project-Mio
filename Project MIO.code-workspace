@@ -1,7 +1,13 @@
 {
 	"folders": [
-		{
-			"path": "."
+		{	"name": "backend",
+			"path": "backend"
+		},
+		{	"name": "crawler",
+			"path": "crawler"
+		},
+		{	"name": "frontend",
+			"path": "frontend"
 		}
 	],
 	"settings": {}
